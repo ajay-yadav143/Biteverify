@@ -1,0 +1,12 @@
+{
+  "ajay": {
+    "password": "6e26e80b2685d34e264c57754a6f8d83a936ff3ba9d02ff85473629a61d56deb",
+    "role": "agent",
+    "created_at": "2026-02-18T19:08:20.964273",
+    "cases_handled": 0
+  },
+  "vijay": {
+    "password": "ajay123",
+    "role": "agent"
+  }
+}

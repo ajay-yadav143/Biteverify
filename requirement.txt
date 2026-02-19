@@ -1,0 +1,10 @@
+streamlit
+pillow
+numpy
+imagehash
+exifread
+plotly
+pandas
+pyjwt
+transformers
+torch

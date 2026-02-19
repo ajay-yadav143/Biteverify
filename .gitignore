@@ -1,8 +1,29 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
 venv/
 .env
+
+# Streamlit
+.streamlit/
+
+# Uploads
 uploads/
-database/hashes.json
-ai_detector.pth
+
+# Database
+database/
+
+# Logs
 *.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
